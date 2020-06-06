@@ -1,8 +1,8 @@
 [English](./README.md) | 简体中文
 
-<h1 align="center">Ant Design Vue Pro</h1>
+<h1 align="center">Jeekite Pro</h1>
 <div align="center">
-An out-of-box UI solution for enterprise applications as a Vue boilerplate. based on  <a href="https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/" target="_blank">Ant Design of Vue</a>
+An out-of-box UI solution for enterprise applications as a Vue boilerplate. based on  <a href="https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/" target="_blank">Jeekite Pro</a>
 </div>
 
 <div align="center">
@@ -49,8 +49,8 @@ Overview
 
 - 拉取项目代码
 ```bash
-git clone https://github.com/vueComponent/ant-design-vue-pro.git
-cd ant-design-pro-vue
+git clone https://github.com/dwx617676/jeekite.git
+cd ant-design-vue-pro-jeekite
 ```
 
 - 安装依赖

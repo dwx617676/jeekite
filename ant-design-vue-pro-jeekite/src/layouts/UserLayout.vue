@@ -9,7 +9,7 @@
           </a>
         </div>
         <div class="desc">
-          Ant Design 是西湖区最具影响力的 Web 设计规范
+         Jeekite 是采用代码生成器实现页面组件化的开发平台。
         </div>
       </div>
 
@@ -22,7 +22,7 @@
           <a href="_self">条款</a>
         </div>
         <div class="copyright">
-          Copyright &copy; 2018 vueComponent
+          Copyright &copy; 2020 Jeekite社区
         </div>
       </div>
     </div>
